@@ -1,0 +1,21 @@
+/* Ajuste do círculo da logo */
+.logo-circle {
+    width: 140px;          /* Tamanho fixo do círculo */
+    height: 140px;         /* Tamanho fixo do círculo */
+    background-color: #000;
+    border-radius: 50%;
+    border: 4px solid #0047AB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 20px;
+    overflow: hidden;      /* Corta o que sobrar da imagem */
+    padding: 15px;         /* Espaço entre a logo e a borda azul */
+}
+
+/* Ajuste da imagem dentro do círculo */
+.logo-circle img {
+    max-width: 100%;       /* Não deixa a imagem ser maior que o círculo */
+    max-height: 100%;      /* Não deixa a imagem ser maior que o círculo */
+    object-fit: contain;    /* Mantém a proporção sem distorcer */
+}
