@@ -1,38 +1,12 @@
 const dadosEmpresas = {
-    "1": { 
-        nome: "ABCZ", 
-        segmento: "Associação", 
-        logo: "logotipo/abcz.png", 
-        descricao: "Associação Brasileira dos Criadores de Zebu.", 
-        whatsapp: "https://wa.me/seunumeroaqui", 
-        instagram: "https://instagram.com/abcz.oficial", 
-        site: "https://www.abcz.org.br" 
-    },
-    "2": { 
-        nome: "GWM Motors", 
-        segmento: "Automotivo", 
-        logo: "logotipo/gwm.png", 
-        descricao: "Líder mundial em veículos híbridos e elétricos.", 
-        whatsapp: "#", 
-        instagram: "#", 
-        site: "#" 
-    },
-    "3": { 
-        nome: "Coltello Beef", 
-        segmento: "Gastronomia", 
-        logo: "logotipo/coltello.jpg", 
-        descricao: "Cortes nobres e experiência gastronômica única.", 
-        whatsapp: "#", 
-        instagram: "#", 
-        site: "#" 
-    },
-    "4": { 
-        nome: "Auto Escola Rezende", 
-        segmento: "Habilitação", 
-        logo: "logotipo/rezende.png", 
-        descricao: "Referência em formação de condutores em Uberaba.", 
-        whatsapp: "#", 
-        instagram: "#", 
-        site: "#" 
-    }
+    "1": { nome: "Cupim Grill", segmento: "Restaurante", logo: "logotipo/cupim-grill.png", frase: "O melhor cupim do Brasil.", descricao: "Referência em carnes na brasa.", whatsapp: "https://wa.me/5534999999991", instagram: "https://www.instagram.com/cupimgrill/", site: "https://cupimgrill.com/" },
+    "2": { nome: "Grife ABCZ", segmento: "Moda Agro", logo: "logotipo/grife-abcz.png", frase: "A marca oficial do Zebu.", descricao: "Roupas e acessórios exclusivos.", whatsapp: "https://wa.me/5534999999992", instagram: "https://www.instagram.com/grifeabcz/", site: "https://www.instagram.com/grifeabcz/" },
+    "3": { nome: "ABCZ", segmento: "Associação", logo: "logotipo/abcz.png", frase: "A casa do Zebu no mundo.", descricao: "Melhoramento genético e registro.", whatsapp: "https://wa.me/5534999999993", instagram: "https://www.instagram.com/abcz.oficial/", site: "https://www.abcz.org.br/" },
+    "4": { nome: "Universidade do Agro", segmento: "Educação", logo: "logotipo/uni-agro.png", frase: "Líderes do amanhã.", descricao: "Cursos focados no agronegócio.", whatsapp: "https://wa.me/5534999999994", instagram: "https://www.instagram.com/universidadedoagro/", site: "https://universidadedoagro.com.br/" },
+    "5": { nome: "Auto Escola Rezende", segmento: "Habilitação", logo: "logotipo/rezende.png", frase: "Tradição em ensinar.", descricao: "Foco na segurança e aprovação.", whatsapp: "https://wa.me/5534999999995", instagram: "https://www.instagram.com/autoescolarezendeub/", site: "https://autoescolarezende.com.br/" },
+    "6": { nome: "Alta Genetics", segmento: "Genética", logo: "logotipo/alta.png", frase: "Criando valor.", descricao: "Líder mundial em inseminação.", whatsapp: "https://wa.me/5534999999996", instagram: "https://www.instagram.com/altageneticabrasil/", site: "https://altagenetics.com.br/" },
+    "7": { nome: "Genex Brasil", segmento: "Genética", logo: "logotipo/genex.png", frase: "Confiança no rebanho.", descricao: "Biotecnologia aplicada.", whatsapp: "https://wa.me/5534999999997", instagram: "https://www.instagram.com/genexbrasil/", site: "https://www.genexbrasil.com.br/" },
+    "8": { nome: "FAZU", segmento: "Faculdade", logo: "logotipo/fazu.png", frase: "Educação no campo.", descricao: "Referência em Agronomia e Zootecnia.", whatsapp: "https://wa.me/5534999999998", instagram: "https://www.instagram.com/fazuuberaba/", site: "https://fazu.br/" },
+    "9": { nome: "Girolando", segmento: "Associação", logo: "logotipo/girolando.png", frase: "O leite do Brasil.", descricao: "Fomento da raça Girolando.", whatsapp: "https://wa.me/5534999999999", instagram: "https://www.instagram.com/girolandooficial/", site: "https://www.girolando.com.br/" },
+    "10": { nome: "GWM Motors", segmento: "Automotivo", logo: "logotipo/gwm.png", frase: "Tecnologia inteligente.", descricao: "Líder em veículos híbridos e elétricos.", whatsapp: "https://wa.me/5534999999910", instagram: "https://www.instagram.com/gwmmotorsbr/", site: "https://www.gwmmotors.com.br/pt" }
 };
