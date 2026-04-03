@@ -1,7 +1,7 @@
 const dadosEmpresas = {
   "1": {
     nome: "Cupim Grill",
-    logo: "logotipo/cupim-grill.png",
+    logo: "/sasled/logotipo/cupim-grill.png",
     whatsapp: "https://wa.me/5534999999991",
     instagram: "#",
     segmento: "Restaurante",
@@ -9,7 +9,7 @@ const dadosEmpresas = {
   },
   "2": {
     nome: "Grife ABCZ",
-    logo: "logotipo/grife-abcz.png",
+    logo: "/sasled/logotipo/grife-abcz.png",
     whatsapp: "https://wa.me/5534999999992",
     instagram: "#",
     segmento: "Moda",
@@ -17,7 +17,7 @@ const dadosEmpresas = {
   },
   "3": {
     nome: "ABCZ",
-    logo: "logotipo/abcz.png",
+    logo: "/sasled/logotipo/abcz.png",
     whatsapp: "https://wa.me/5534999999993",
     instagram: "#",
     segmento: "Agro",
@@ -25,7 +25,7 @@ const dadosEmpresas = {
   },
   "4": {
     nome: "Universidade do Agro",
-    logo: "logotipo/uni-agro.png",
+    logo: "/sasled/logotipo/uni-agro.png",
     whatsapp: "https://wa.me/5534999999994",
     instagram: "#",
     segmento: "Educação",
@@ -33,7 +33,7 @@ const dadosEmpresas = {
   },
   "5": {
     nome: "Auto Escola Rezende",
-    logo: "logotipo/rezende.png",
+    logo: "/sasled/logotipo/rezende.png",
     whatsapp: "https://wa.me/5534999999995",
     instagram: "#",
     segmento: "Serviços",
@@ -41,7 +41,7 @@ const dadosEmpresas = {
   },
   "6": {
     nome: "Alta Genetics",
-    logo: "logotipo/alta.png",
+    logo: "/sasled/logotipo/alta.png",
     whatsapp: "https://wa.me/5534999999996",
     instagram: "#",
     segmento: "Genética",
@@ -49,7 +49,7 @@ const dadosEmpresas = {
   },
   "7": {
     nome: "Genex Brasil",
-    logo: "logotipo/genex.png",
+    logo: "/sasled/logotipo/genex.png",
     whatsapp: "https://wa.me/5534999999997",
     instagram: "#",
     segmento: "Genética",
@@ -57,7 +57,7 @@ const dadosEmpresas = {
   },
   "8": {
     nome: "FAZU",
-    logo: "logotipo/fazu.png",
+    logo: "/sasled/logotipo/fazu.png",
     whatsapp: "https://wa.me/5534999999998",
     instagram: "#",
     segmento: "Educação",
@@ -65,7 +65,7 @@ const dadosEmpresas = {
   },
   "9": {
     nome: "Girolando",
-    logo: "logotipo/girolando.png",
+    logo: "/sasled/logotipo/girolando.png",
     whatsapp: "https://wa.me/5534999999999",
     instagram: "#",
     segmento: "Agro",
@@ -73,7 +73,7 @@ const dadosEmpresas = {
   },
   "10": {
     nome: "GWM Motors",
-    logo: "logotipo/gwm.png",
+    logo: "/sasled/logotipo/gwm.png",
     whatsapp: "https://wa.me/5534999999910",
     instagram: "#",
     segmento: "Automotivo",
@@ -81,7 +81,7 @@ const dadosEmpresas = {
   },
   "11": {
     nome: "Coltello Beef",
-    logo: "logotipo/coltello.jpg",
+    logo: "/sasled/logotipo/coltello.jpg",
     whatsapp: "https://wa.me/5534999999911",
     instagram: "#",
     segmento: "Alimentos",
