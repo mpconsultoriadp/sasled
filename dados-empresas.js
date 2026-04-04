@@ -18,7 +18,7 @@ const dadosEmpresas = {
   "3": {
     nome: "ABCZ",
     logo: "/sasled/logotipo/abcz.png",
-    #whatsapp: "https://wa.me/5534999999993",#
+    whatsapp: "https://wa.me/5534999999993",
     instagram: "https://www.instagram.com/abcz.pmgz/",
     segmento: "Agro",
     descricao: "Associação Brasileira dos Criadores de Zebu."
@@ -26,7 +26,7 @@ const dadosEmpresas = {
   "4": {
     nome: "Universidade do Agro",
     logo: "/sasled/logotipo/uni-agro.png",
-    #whatsapp: "https://wa.me/553433342212",#
+    whatsapp: "https://wa.me/553433342212",
     instagram: "https://www.instagram.com/universidade.agro/",
     segmento: "Educação",
     descricao: "Cursos e capacitação para o agronegócio."
@@ -42,7 +42,7 @@ const dadosEmpresas = {
   "6": {
     nome: "Alta Genetics",
     logo: "/sasled/logotipo/alta.png",
-    #whatsapp: "https://wa.me/5534999999996",#
+    whatsapp: "https://wa.me/5534999999996",
     instagram: "https://www.instagram.com/altabrasiloficial/?hl=pt-br",
     segmento: "Genética",
     descricao: "Soluções genéticas para pecuária."
@@ -74,7 +74,7 @@ const dadosEmpresas = {
   "10": {
     nome: "GWM Motors",
     logo: "/sasled/logotipo/gwm.png",
-    #whatsapp: "https://wa.me/5534999999910",#
+    whatsapp: "https://wa.me/5534999999910",
     instagram: "https://www.instagram.com/gwmbrasil/",
     segmento: "Automotivo",
     descricao: "Montadora global de veículos."
